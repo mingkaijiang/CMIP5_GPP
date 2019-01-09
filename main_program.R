@@ -169,3 +169,7 @@ colnames(p3DF) <- c("x", "y", "m3", "test", "c3")
 p8 <- taylor.diagram(p3DF$m3, p3DF$c3, add=T, col="pink", pch=19,  pcex=2, normalize=T)
 
 dev.off()
+
+
+### plot modis annual GPP 
+modisDF

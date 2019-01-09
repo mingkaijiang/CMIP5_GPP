@@ -42,3 +42,7 @@ rsconnect/
 *.pdf
 *.db
 *.DS_Store
+*.rtf
+*.tiff
+*.out
+*.status
